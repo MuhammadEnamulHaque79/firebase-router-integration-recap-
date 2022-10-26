@@ -1,0 +1,12 @@
+.header nav a{
+    text-decoration: none;
+    margin-right: 25px;
+    color:black;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+   
+}
+
+.header nav a:hover{
+    color:gold;
+}
